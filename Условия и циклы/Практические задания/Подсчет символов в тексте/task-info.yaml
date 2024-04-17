@@ -56,5 +56,8 @@ files:
     text: |
       Количество пробелов и символов переноса строки: 158
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 10 Apr 2024 17:41:20 UTC"
 record: -1
